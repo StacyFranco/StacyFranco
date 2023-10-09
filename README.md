@@ -5,7 +5,7 @@
 
 <p> </p>
 
-- 🔭 I’m currently working on my portfolio and you can give ideas any time! [just take your time and have a look.](https://stacyfranco.github.io)
+- 🔭 I’m currently working on my portfolio and you can give ideas any time! [just take your time and have a look.](https://github.com/StacyFranco/portifolio)
 
 - 🌱 I’m currently learning **Node.js and React.js**
 
